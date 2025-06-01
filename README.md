@@ -12,5 +12,7 @@ $git branch
 $git push -u origin master
 -  -u  : To set which upstream branch on git hub do you want later pushes and pulls.
 -  From later point you can just use push or pull.
+-  Do this step every time you are on new branch.
 
 Making some changes to test.
+Did some more changes.
